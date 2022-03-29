@@ -1,0 +1,3 @@
+- 👋 Hi, I’m WK Givens
+- 👀 I’m interested in enhancing by beginners knowledge of code
+- 🌱 I’m currently learning to code w/ python
